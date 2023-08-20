@@ -9,7 +9,7 @@ I am a passionate competitive programmer who participated in various national an
 I have participated in ICPC Dhaka Regional Contest in 2022
 (TEAM: AUST_CrackPlatoon ( Rank : 33 ) ). 
 
-I also participated in ICPC ASIA-WEST Continent Final 2022
+I have also participated in ICPC ASIA-WEST Continent Final 2022
 (TEAM: AUST_CrackPlatoon ( Rank : 51 ) ). 
 
 I have also participated some national programming contests.
