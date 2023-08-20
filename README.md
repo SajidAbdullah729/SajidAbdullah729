@@ -25,7 +25,7 @@ BUET Inter University Programming Contest 2023
 
 Secured 1st, 2nd, 3rd, and 4th positions in different editions of the Intra-University Programming Contest, reflecting consistent excellence, strong problem-solving skills, and adeptness in diverse coding paradigms.
 
-I have also done great in junior level and got 11th rank in Bangladesh Informatics Olympiad National Round in 2014.
+I have also participated in junior level and got 11th rank in Bangladesh Informatics Olympiad National Round in 2014.
 
 I have been active participants in Bangladesh Mathematical Olympiad and selected two times for national round in 2012 and 2014th edition.
 
