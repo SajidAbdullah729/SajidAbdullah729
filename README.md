@@ -15,7 +15,6 @@ I have also done some projects in my university life which gives me great experi
 
 I also have experience in Machine Learning and Deep Learning for my thesis.
 
-If you are looking for a programmer with problem solving skill, you can contact me at LinkedIn.
 
 Skills: C++/ Java/ Python
 
