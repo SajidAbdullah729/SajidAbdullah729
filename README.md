@@ -1,4 +1,4 @@
-### Hi there 👋, I am Mohammad Abdullah-Al-Sajid Chowdhury
+### Hi there 👋, I am Mohammad Abdullah-Al-Sajid Chowdhury 
 #### Competitive Programmer
 ![Competitive Programmer](https://media.licdn.com/dms/image/D5603AQEj3WsXYz4XrA/profile-displayphoto-shrink_800_800/0/1692458194313?e=1698278400&v=beta&t=XxUgZ9gp5YsYdGPZQouJuWAc0a6FGumFVutZj9kOksk)
 
@@ -22,16 +22,9 @@ Skills: C++/ Java/ Python
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SajidAbdullah729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-aa6243201//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SajidAbdullah729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-aa6243201//)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidAbdullah729)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SajidAbdullah729)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true&count_private=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SajidAbdullah729&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/SajidAbdullah729)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/SajidAbdullah729)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/SajidAbdullah729)  
