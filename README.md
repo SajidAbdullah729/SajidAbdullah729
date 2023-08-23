@@ -1,8 +1,10 @@
 ### Hi there 👋, I am Mohammad Abdullah-Al-Sajid Chowdhury 
 #### Competitive Programmer
 #### Bangladesh
+![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=red)
+
 ![Competitive Programmer](https://media.licdn.com/dms/image/D5603AQEj3WsXYz4XrA/profile-displayphoto-shrink_800_800/0/1692458194313?e=1698278400&v=beta&t=XxUgZ9gp5YsYdGPZQouJuWAc0a6FGumFVutZj9kOksk)
-![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=blue)
+
 
 Welcome to my Github Profile!
 
