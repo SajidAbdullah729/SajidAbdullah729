@@ -1,4 +1,4 @@
-### Hi there 👋, I am Mohammad Abdullah-Al-Sajid Chowdhury 
+### Hi there 😊, I am Mohammad Abdullah-Al-Sajid Chowdhury 
 #### Competitive Programmer
 #### Bangladesh
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
