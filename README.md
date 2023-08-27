@@ -47,7 +47,7 @@ I also have experience in Machine Learning and Deep Learning for my thesis.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidAbdullah729)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SajidAbdullah729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-aa6243201//)  
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true&count_private=true)  
