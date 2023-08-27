@@ -37,7 +37,7 @@ I have also done some projects in my university life which gives me great experi
 
 I also have experience in Machine Learning and Deep Learning for my thesis.
 
-#### Connect With Me
+### Connect With Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SajidAbdullah729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-aa6243201//)  
 
 
