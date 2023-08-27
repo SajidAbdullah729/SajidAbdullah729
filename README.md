@@ -12,23 +12,23 @@ I am a passionate competitive programmer who participated in various national an
 
 I have participated in 
 **ICPC Dhaka Regional Contest in 2022**
-(TEAM: AUST_CrackPlatoon ( Rank : 33 ) ). 
+**(TEAM: AUST_CrackPlatoon ( Rank : 33 ) )**. 
 
 I have also participated in 
 **ICPC ASIA-WEST Continent Final 2022**
-(TEAM: AUST_CrackPlatoon ( Rank : 51 ) ). 
+**(TEAM: AUST_CrackPlatoon ( Rank : 51 ) )**. 
 
 I have also participated some national programming contests.
 
 I have participated in 
 **AUST Inter University Programming Contest 2022** 
-(Team: AUST_SLYTHERIN ( Rank: 53) ), 
+**(Team: AUST_SLYTHERIN ( Rank: 53) )**, 
 
 **BUET Inter University Programming Contest 2022** 
-(Team: AUST_SillyMistakes ( Rank: 74) ), 
+**(Team: AUST_SillyMistakes ( Rank: 74) )**, 
 
 **BUET Inter University Programming Contest 2023**
-(Team: AUST_Badamtola ( Rank: 86) ). 
+**(Team: AUST_Badamtola ( Rank: 86) )**. 
 
 Secured **1st**, **2nd**, **3rd**, and **4th** positions in different editions of the **Intra-University Programming Contest**, reflecting consistent excellence, strong problem-solving skills, and adeptness in diverse coding paradigms.
 
