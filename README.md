@@ -34,7 +34,7 @@ Secured **1st**, **2nd**, **3rd**, and **4th** positions in different editions o
 
 I have also participated in junior level and got 11th rank in **Bangladesh Informatics Olympiad National Round** in **2014**.
 
-I have been active participants in **Bangladesh Mathematical Olympiad** and selected two times for national round in **2012** and **2014th** edition.
+I have been active participants in **Bangladesh Mathematical Olympiad** and selected **two times** for national round in **2012** and **2014th** edition.
 
 I have also done some projects in my university life which gives me great experience in programming.
 
