@@ -9,35 +9,35 @@
 Welcome to my Github Profile!
 I am a passionate competitive programmer who participated in various national and international programming contests. 
 
-Achievements in Onsite Programming Contest :
+**Achievements in Onsite Programming Contest :**
 
-***Secured 33rd Rank in ICPC Dhaka Regional Contest in 2022 (TEAM: AUST_CrackPlatoon). ))**
+*Secured **33rd** Rank in **ICPC Dhaka Regional Contest 2022** ( TEAM: **AUST_CrackPlatoon**). ))
 
-*Secured 51th Rank in ICPC ASIA-WEST Continent Final 2022( TEAM: AUST_CrackPlatoon). 
+*Secured **51th** Rank in ICPC ASIA-WEST Continent Final 2022( TEAM: **AUST_CrackPlatoon**). 
 
-*Secured 11th Rank in Bangladesh Informatics Olympiad National Round(Junior Group) 2014 
+*Secured **11th** Rank in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014** 
 
-*Secured 53rd Rank in AUST Inter University Programming Contest 2022 (Team: AUST_SLYTHERIN) 
+*Secured **53rd** Rank in **AUST Inter University Programming Contest 2022** (Team: **AUST_SLYTHERIN**) 
 
-*Secured 74th Rank in BUET Inter University Programming Contest 2022 (Team: AUST_SillyMistakes)
+*Secured **74th** Rank in BUET Inter University Programming Contest 2022 (Team: **AUST_SillyMistakes**)
 
-*Secured  86th Rank in BUET Inter University Programming Contest 2023 (Team: AUST_Badamtola )
+*Secured  86th Rank in **BUET Inter University Programming Contest 2023** (Team: **AUST_Badamtola** )
 
-*Secured 1st, 2nd, 3rd, and 4th positions in different editions of the Intra-University Programming 
+*Secured **1st**, **2nd**, **3rd**, and **4th** positions in different editions of the Intra-University Programming 
 
-Achievements in Bangladesh Mathematical Olympiad:
+**Achievements in Bangladesh Mathematical Olympiad:**
 
-*Selected for National Round in 2012 from Chittagong.(Junior Group)
+*Selected for National Round in **2012** from Chittagong.(**Junior Group**)
 
-*Selected for National Round in 2014 from Chittagong.(Junior Group)
+*Selected for National Round in **2014** from Chittagong.(**Junior Group**)
 
 Experience of University life:
 
 *Done some projects for my undergraduate academics.
 
-*Experience in Machine Learning and Deep Learning Models for my undergraduate thesis.
+*Experience in **Machine Learning and Deep Learning Models** for my undergraduate thesis.
 
-If you are looking for a programmer with problem solving skills, you can contact me at LinkedIn.
+If you are looking for a programmer with problem solving skills, you can contact me at **LinkedIn**.
 
 ### Connect With Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SajidAbdullah729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-aa6243201//)  
