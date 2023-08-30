@@ -19,7 +19,7 @@ I am a passionate competitive programmer who participated in various national an
 
 *Secured **53rd** Rank in **AUST Inter University Programming Contest 2022** (Team: **AUST_SLYTHERIN**) 
 
-*Secured **74th** Rank in BUET Inter University Programming Contest 2022 (Team: **AUST_SillyMistakes**)
+*Secured **74th** Rank in **BUET Inter University Programming Contest 2022** (Team: **AUST_SillyMistakes**)
 
 *Secured  **86th** Rank in **BUET Inter University Programming Contest 2023** (Team: **AUST_Badamtola** )
 
@@ -27,9 +27,9 @@ I am a passionate competitive programmer who participated in various national an
 
 **Achievements in Bangladesh Mathematical Olympiad:**
 
-*Selected for National Round in **2012** from Chittagong.(**Junior Group**)
+*Selected for **National Round** in **2012** from Chittagong.(**Junior Group**)
 
-*Selected for National Round in **2014** from Chittagong.(**Junior Group**)
+*Selected for **National Round** in **2014** from Chittagong.(**Junior Group**)
 
 Experience of University life:
 
