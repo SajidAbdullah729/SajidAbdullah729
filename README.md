@@ -23,17 +23,16 @@ I am a passionate competitive programmer who participated in various national an
 
 **Achievements in Bangladesh Mathematical Olympiad:**
 
-*Selected for **National Round** in **2012** from Chittagong.(**Junior Group**)
-
-*Selected for **National Round** in **2014** from Chittagong.(**Junior Group**)  
+*Selected for **National Round** in **2012** from Chittagong.(**Junior Group**)  
+*Selected for **National Round** in **2014** from Chittagong.(**Junior Group**)    
 
 
 
 **Experience of University life:**
 
-*Done some projects for my undergraduate academics.
+*Done some projects for my undergraduate academics.  
+*Experience in **Machine Learning and Deep Learning Models** for my undergraduate thesis.  
 
-*Experience in **Machine Learning and Deep Learning Models** for my undergraduate thesis.
 
 If you are looking for a programmer with problem solving skills, you can contact me at **LinkedIn**.  
 
