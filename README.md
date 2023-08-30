@@ -21,7 +21,7 @@ I am a passionate competitive programmer who participated in various national an
 
 *Secured **74th** Rank in BUET Inter University Programming Contest 2022 (Team: **AUST_SillyMistakes**)
 
-*Secured  86th Rank in **BUET Inter University Programming Contest 2023** (Team: **AUST_Badamtola** )
+*Secured  **86th** Rank in **BUET Inter University Programming Contest 2023** (Team: **AUST_Badamtola** )
 
 *Secured **1st**, **2nd**, **3rd**, and **4th** positions in different editions of the Intra-University Programming 
 
