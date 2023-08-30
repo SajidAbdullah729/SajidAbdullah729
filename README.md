@@ -66,5 +66,4 @@ If you are looking for a programmer with **problem solving skills**, you can con
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true&count_private=true)  
 
