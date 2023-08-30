@@ -34,7 +34,7 @@ I am a passionate competitive programmer who participated in various national an
 *Experience in **Machine Learning and Deep Learning Models** for my undergraduate thesis.  
 
 
-If you are looking for a programmer with problem solving skills, you can contact me at **LinkedIn**.  
+If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
 
 
 ### Connect With Me:
