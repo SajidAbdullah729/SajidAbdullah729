@@ -30,7 +30,7 @@ I am a passionate competitive programmer who participated in various national an
 
 **Experience of University life:**
 
-*Done some projects for my undergraduate academics.  
+*Did some projects for my undergraduate academics.  
 *Experience in **Machine Learning and Deep Learning Models** for my undergraduate thesis.  
 
 
