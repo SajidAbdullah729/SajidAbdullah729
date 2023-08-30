@@ -25,19 +25,22 @@ I am a passionate competitive programmer who participated in various national an
 
 *Secured **1st**, **2nd**, **3rd**, and **4th** positions in different editions of the **Intra-University Programming**
 
+
 **Achievements in Bangladesh Mathematical Olympiad:**
 
 *Selected for **National Round** in **2012** from Chittagong.(**Junior Group**)
 
 *Selected for **National Round** in **2014** from Chittagong.(**Junior Group**)
 
-Experience of University life:
+
+**Experience of University life:**
 
 *Done some projects for my undergraduate academics.
 
 *Experience in **Machine Learning and Deep Learning Models** for my undergraduate thesis.
 
 If you are looking for a programmer with problem solving skills, you can contact me at **LinkedIn**.
+
 
 ### Connect With Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SajidAbdullah729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-aa6243201//)  
