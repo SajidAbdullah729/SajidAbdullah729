@@ -13,7 +13,7 @@ I am a passionate competitive programmer who participated in various national an
 
 *Secured **33rd** Rank in **ICPC Dhaka Regional Contest 2022** ( TEAM: **AUST_CrackPlatoon**). ))
 
-*Secured **51th** Rank in ICPC ASIA-WEST Continent Final 2022( TEAM: **AUST_CrackPlatoon**). 
+*Secured **51th** Rank in **ICPC ASIA-WEST Continent Final 2022** ( TEAM: **AUST_CrackPlatoon**). 
 
 *Secured **11th** Rank in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014** 
 
