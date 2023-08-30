@@ -11,13 +11,13 @@ I am a passionate competitive programmer who participated in various national an
 
 **Achievements in Onsite Programming Contest :**
 
-*Secured **33rd** Rank in **ICPC Dhaka Regional Contest 2022** ( TEAM: **AUST_CrackPlatoon**). ))  
-*Secured **51th** Rank in **ICPC ASIA-WEST Continent Final 2022** ( TEAM: **AUST_CrackPlatoon**).   
+*Secured **33rd** Rank in **ICPC Dhaka Regional Contest 2022** ( TEAM: **AUST_CrackPlatoon** )  
+*Secured **51th** Rank in **ICPC ASIA-WEST Continent Final 2022** ( TEAM: **AUST_CrackPlatoon** ).   
 *Secured **11th** Rank in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014**   
-*Secured **53rd** Rank in **AUST Inter University Programming Contest 2022** (Team: **AUST_SLYTHERIN**)   
-*Secured **74th** Rank in **BUET Inter University Programming Contest 2022** (Team: **AUST_SillyMistakes**)  
-*Secured  **86th** Rank in **BUET Inter University Programming Contest 2023** (Team: **AUST_Badamtola** )  
-*Secured **1st**, **2nd**, **3rd**, and **4th** positions in different editions of the **Intra-University Programming Contests**
+*Secured **53rd** Rank in **AUST Inter University Programming Contest 2022** ( Team: **AUST_SLYTHERIN** )   
+*Secured **74th** Rank in **BUET Inter University Programming Contest 2022** ( Team: **AUST_SillyMistakes** )  
+*Secured  **86th** Rank in **BUET Inter University Programming Contest 2023** ( Team: **AUST_Badamtola** )  
+*Secured **1st**, **2nd**, **3rd**, and **4th** positions in different editions of the **Intra-University Programming Contests**.
 
 
 
