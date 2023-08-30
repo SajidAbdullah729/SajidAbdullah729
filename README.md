@@ -26,11 +26,13 @@ I am a passionate competitive programmer who participated in various national an
 *Secured **1st**, **2nd**, **3rd**, and **4th** positions in different editions of the **Intra-University Programming**
 
 
+
 **Achievements in Bangladesh Mathematical Olympiad:**
 
 *Selected for **National Round** in **2012** from Chittagong.(**Junior Group**)
 
 *Selected for **National Round** in **2014** from Chittagong.(**Junior Group**)
+
 
 
 **Experience of University life:**
