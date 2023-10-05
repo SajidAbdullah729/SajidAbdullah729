@@ -1,6 +1,6 @@
 ### Mohammad Abdullah-Al-Sajid Chowdhury 
-#### Competitive Programmer
-#### Bangladesh
+### Competitive Programmer
+### Bangladesh
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
 
 
