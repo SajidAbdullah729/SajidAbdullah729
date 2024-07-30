@@ -12,7 +12,7 @@ I am a passionate competitive programmer who participated in various national an
 **Achievements in Onsite Programming Contest :**
 
 
-*Secured **33th** Rank in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )  
+*Secured **28th** Rank in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )  
 *Secured **51th** Rank in **ACM-ICPC ASIA-WEST Continent Final 2022** ( Team: **AUST_CrackPlatoon** )    
 *Secured **54th** Rank in **ACM-ICPC Dhaka Regional Contest 2023** ( Team: **AUST_Shunno7** )      
 *Secured **11th** Rank in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014**   
