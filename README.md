@@ -69,7 +69,7 @@ If you are looking for a programmer with **problem solving skills**, you can con
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidAbdullah729)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true&locale=en" alt="SajidAbdullah729" /></p>
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true&locale=en" alt="SajidAbdullah729" /></p>
 
 
 
