@@ -97,6 +97,10 @@ I am a passionate competitive programmer who participated in various national an
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" 
        alt="Android Studio" width="40" height="40"/>
 </a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" 
+       alt="Google Colab" width="40" height="40"/>
+</a>
 </p>
 
 <br></br>
