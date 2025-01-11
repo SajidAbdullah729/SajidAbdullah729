@@ -104,7 +104,7 @@ I am a passionate competitive programmer who participated in various national an
 
 <br></br>
 ### Statistics :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidAbdullah729&bg_color=00000000))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidAbdullah729))](https://github.com/anuraghazra/github-readme-stats)
 
 
 
