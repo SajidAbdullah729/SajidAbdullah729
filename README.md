@@ -12,34 +12,33 @@ I am a passionate competitive programmer who participated in various national an
 **Achievements in Onsite Programming Contest :**
 
 
-*Secured **28th** Rank in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )  
-*Secured **51st** Rank in **ACM-ICPC ASIA-WEST Continent Final 2022** ( Team: **AUST_CrackPlatoon** )    
-*Secured **54th** Rank in **ACM-ICPC Dhaka Regional Contest 2023** ( Team: **AUST_Shunno7** )      
-*Secured **11th** Rank in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014**   
+*Ranked **28th** in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )  
+*Ranked **51st** in **ACM-ICPC ASIA-WEST Continent Final 2022** ( Team: **AUST_CrackPlatoon** )    
+*Ranked **54th**  in **ACM-ICPC Dhaka Regional Contest 2023** ( Team: **AUST_Shunno7** )      
+*Ranked **11th** in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014**   
 
-*Secured **14th** Rank in **IUT Inter University Programming Contest 2024** ( Team: **AUST_RedX** )  
-*Secured **38th** Rank in **National Collegiate Programming Contest JU 2024** (Team: **AUST_RedX** )   
-*Secured **38th** Rank in **CUET Inter University Programming Contest 2024** ( Team: **AUST_Shunno7** )  
-*Secured **53rd** Rank in **AUST Inter University Programming Contest 2022** ( Team: **AUST_SLYTHERIN** )     
-*Secured **74th** Rank in **BUET Inter University Programming Contest 2022** ( Team: **AUST_SillyMistakes** )    
-*Secured **86th** Rank in **BUET Inter University Programming Contest 2023** ( Team: **AUST_Badamtola** )  
+*Ranked **14th** in **IUT Inter University Programming Contest 2024** ( Team: **AUST_RedX** )  
+*Ranked **38th** in **National Collegiate Programming Contest JU 2024** (Team: **AUST_RedX** )   
+*Ranked **38th** in **CUET Inter University Programming Contest 2024** ( Team: **AUST_Shunno7** )  
+*Ranked **53rd** in **AUST Inter University Programming Contest 2022** ( Team: **AUST_SLYTHERIN** )     
+*Ranked **74th** in **BUET Inter University Programming Contest 2022** ( Team: **AUST_SillyMistakes** )    
+*Ranked **86th** in **BUET Inter University Programming Contest 2023** ( Team: **AUST_Badamtola** )  
 
-*Secured **1st**, **2nd**, **3rd**, and **4th** positions in different editions of the **Intra-University Programming Contests**.
+*Ranked **1st**, **2nd**, **3rd**, and **4th** in different editions of the **Intra-University Programming Contests**.
 
 
 
 **Achievements in Bangladesh Mathematical Olympiad:**
 
-*Selected for **National Round** in **2012** from Chittagong.(**Junior Group**)  
-*Selected for **National Round** in **2014** from Chittagong.(**Junior Group**)    
+* **2 times National Round** Participant in **2012** and **2014** in Junior Group (**Regional Winners** from Chittagong.)   
 
 
 
 **Experience of University life:**
 
-*Created some **group projects** for my undergraduate academics.  
-*Experience in **Machine Learning and Deep Learning Models** for my undergraduate thesis.   
-*Experience in **Problem setting, testing, judging and organizing** for programming contests. 
+*Created **academic group projects**.  
+*Experienced in **Machine Learning and Deep Learning Models** for my undergraduate thesis.   
+*Experienced in **Problem setting, testing, judging and organizing** for programming contests. 
 
 
 If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
