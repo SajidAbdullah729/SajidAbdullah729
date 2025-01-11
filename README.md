@@ -43,10 +43,10 @@ I am a passionate competitive programmer who participated in various national an
 <br></br>
 If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
 
-
+<br></br>
 ### Connect With Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SajidAbdullah729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-aa6243201//) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SajidAbdullah)
-
+<br></br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -66,7 +66,7 @@ If you are looking for a programmer with **problem solving skills**, you can con
   
 </p>
 
-
+<br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidAbdullah729)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true&locale=en" alt="SajidAbdullah729" /></p>
 
