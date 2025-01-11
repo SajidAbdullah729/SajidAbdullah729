@@ -29,13 +29,13 @@ I am a passionate competitive programmer who participated in various national an
 
 <br></br>
 
-**- Achievements in Bangladesh Mathematical Olympiad:**
+**- Achievements in Bangladesh Mathematical Olympiad :**
 
 * **2 times National Round** Participant in **2012** and **2014** in Junior Group (**Regional Winners** from Chittagong.)   
 
 <br></br>
 
-**- Experience of University life:**
+**- Experience of University life :**
 
 * Built multiple academic group projects.  
 * Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
@@ -44,11 +44,11 @@ I am a passionate competitive programmer who participated in various national an
  
 
 <br></br>
-### Connect With Me:
+### Connect With Me :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SajidAbdullah729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-aa6243201//) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SajidAbdullah)
 <br></br>
 
-### Technology / Tools:
+### Technology / Tools :
 
 
 <p align="left">
