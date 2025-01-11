@@ -26,7 +26,7 @@ I am a passionate competitive programmer who participated in various national an
 
 * **Ranked 1st**, **2nd**, **3rd**, and **4th** in different editions of the **Intra-University Programming Contests**.
 
-
+<br></br>
 
 **Achievements in Bangladesh Mathematical Olympiad:**
 
