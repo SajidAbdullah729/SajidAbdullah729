@@ -1,5 +1,5 @@
 ### Mohammad Abdullah-Al-Sajid Chowdhury 
-### Competitive Programmer, Problem Solver, ICPC Asia West Continent Final Participant
+### Competitive Programmer, Problem Solver, ICPC Asia West Continent Finalist
 ### Bangladesh
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
 
