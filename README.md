@@ -7,7 +7,7 @@
 
 
 Welcome to my Github Profile!
-I am a passionate competitive programmer who participated in various national and international programming contests. 
+I am a passionate competitive programmer who participated in various national and international programming contests. If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
 
 **Achievements in Onsite Programming Contest :**
 
@@ -40,8 +40,7 @@ I am a passionate competitive programmer who participated in various national an
 * Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
 * Experienced in **Problem setting, testing, judging and organizing** for programming contests. 
 
-<br></br>
-If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
+ 
 
 <br></br>
 ### Connect With Me:
