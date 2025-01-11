@@ -9,7 +9,7 @@
 Welcome to my Github Profile!
 I am a passionate competitive programmer who participated in various national and international programming contests. If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
 <br></br>
-**Achievements in Onsite Programming Contest :**
+**- Achievements in Onsite Programming Contest :**
 
 
 * **Ranked 28th** in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )  
@@ -28,13 +28,13 @@ I am a passionate competitive programmer who participated in various national an
 
 <br></br>
 
-**Achievements in Bangladesh Mathematical Olympiad:**
+**- Achievements in Bangladesh Mathematical Olympiad:**
 
 * **2 times National Round** Participant in **2012** and **2014** in Junior Group (**Regional Winners** from Chittagong.)   
 
 <br></br>
 
-**Experience of University life:**
+**- Experience of University life:**
 
 * Built multiple academic group projects.  
 * Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
