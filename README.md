@@ -98,7 +98,10 @@ I am a passionate competitive programmer who participated in various national an
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
        alt="Node.js" width="40" height="40"/> 
 </a>
-  
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" 
+       alt="Android Studio" width="40" height="40"/>
+</a>
 </p>
 
 <br></br>
