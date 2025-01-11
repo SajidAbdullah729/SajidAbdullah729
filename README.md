@@ -36,8 +36,8 @@ I am a passionate competitive programmer who participated in various national an
 
 **Experience of University life:**
 
-* Built multiple academic group projects**.  
-* Experienced in **Machine Learning and Deep Learning Models** for my undergraduate thesis.   
+* Built multiple academic group projects.  
+* Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
 * Experienced in **Problem setting, testing, judging and organizing** for programming contests. 
 
 
