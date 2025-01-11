@@ -65,35 +65,39 @@ I am a passionate competitive programmer who participated in various national an
 </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/> </a> 
-  <!-- ASP.NET -->
+
 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" 
        alt="ASP.NET" width="40" height="40"/>
 </a>
 
-<!-- Django -->
+
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" 
        alt="Django" width="40" height="40"/> 
 </a>
 
-<!-- React -->
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
        alt="React" width="40" height="40"/>
 </a>
-<!-- Java Swing -->
+
 <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/swing/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
        alt="Java Swing" width="40" height="40"/>
 </a>
 
-<!-- Next.js -->
+
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" 
        alt="Next.js" width="40" height="40"/> 
 </a>
 
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+       alt="Node.js" width="40" height="40"/> 
+</a>
   
 </p>
 
