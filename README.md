@@ -32,7 +32,7 @@ I am a passionate competitive programmer who participated in various national an
 
 * **2 times National Round** Participant in **2012** and **2014** in Junior Group (**Regional Winners** from Chittagong.)   
 
-
+<br></br>
 
 **Experience of University life:**
 
@@ -40,7 +40,7 @@ I am a passionate competitive programmer who participated in various national an
 * Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
 * Experienced in **Problem setting, testing, judging and organizing** for programming contests. 
 
-
+<br></br>
 If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
 
 
