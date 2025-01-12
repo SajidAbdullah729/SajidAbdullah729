@@ -59,15 +59,17 @@ I am a passionate competitive programmer who participated in various national an
 [![StopStalk](https://img.shields.io/badge/StopStalk-800000?style=for-the-badge&logo=stopstalk&logoColor=white)](https://www.stopstalk.com/user/profile/SajidAbdullah)
 &emsp;
 [![AtCoder](https://img.shields.io/badge/AtCoder-1E90FF?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Lawliet112358)
- <br></br>[![Toph](https://img.shields.io/badge/Toph-FF5722?style=for-the-badge&logo=toph&logoColor=white)](https://toph.co/u/SajidAbdullah)
+&emsp;
+[![SPOJ](https://img.shields.io/badge/SPOJ-0C0C0C?style=for-the-badge&logo=spoj&logoColor=white)](https://www.spoj.com/users/lawliet112358)
+ <br></br>
+[![Toph](https://img.shields.io/badge/Toph-FF5722?style=for-the-badge&logo=toph&logoColor=white)](https://toph.co/u/SajidAbdullah)
 &emsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sajidabdullah729) 
 &emsp;
 [![LightOJ](https://img.shields.io/badge/LightOJ-AA0000?style=for-the-badge&logo=lightoj&logoColor=white)](https://lightoj.com/user/sajidabdullah)
 &emsp;
 [![UVa](https://img.shields.io/badge/UVa%20Online%20Judge-00599C?style=for-the-badge&logo=uva&logoColor=white)](https://uhunt.onlinejudge.org/id/1075940)
-&emsp;
-[![SPOJ](https://img.shields.io/badge/SPOJ-0C0C0C?style=for-the-badge&logo=spoj&logoColor=white)](https://www.spoj.com/users/lawliet112358)
+
 <br></br>
 
 ### Technology / Tools :
