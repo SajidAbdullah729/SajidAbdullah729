@@ -35,7 +35,7 @@ I am a passionate competitive programmer who participated in various national an
 * **2 times National Round** Participant in **2012** and **2014** in Junior Group (**Regional Winners** from Chittagong.)   
 <br></br>
 
-**- Experience of University life :**
+**- Experiences :**
 
 * Built multiple academic group projects.  
 * Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
