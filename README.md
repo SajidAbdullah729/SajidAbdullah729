@@ -108,13 +108,10 @@ I am a passionate competitive programmer who participated in various national an
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
        alt="Java Swing" width="40" height="40"/>
 </a>
-
-
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" 
        alt="Next.js" width="40" height="40"/> 
 </a>
-
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
        alt="Node.js" width="40" height="40"/> 
