@@ -69,7 +69,8 @@ I am a passionate competitive programmer who participated in various national an
 [![LightOJ](https://img.shields.io/badge/LightOJ-AA0000?style=for-the-badge&logo=lightoj&logoColor=white)](https://lightoj.com/user/sajidabdullah)
 &emsp;
 [![UVa](https://img.shields.io/badge/UVa%20Online%20Judge-00599C?style=for-the-badge&logo=uva&logoColor=white)](https://uhunt.onlinejudge.org/id/1075940)
-
+&emsp;
+[![VJudge](https://img.shields.io/badge/VJudge-007ACC?style=for-the-badge&logo=vjudge&logoColor=white)](https://vjudge.net/user/Lawliet112358)
 <br></br>
 
 ### Technology / Tools :
