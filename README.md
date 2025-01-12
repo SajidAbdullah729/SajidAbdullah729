@@ -64,7 +64,8 @@ I am a passionate competitive programmer who participated in various national an
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sajidabdullah729) 
 &emsp;
 [![LightOJ](https://img.shields.io/badge/LightOJ-AA0000?style=for-the-badge&logo=lightoj&logoColor=white)](https://lightoj.com/user/sajidabdullah)
-
+&emsp;
+[![UVa](https://img.shields.io/badge/UVa%20Online%20Judge-00599C?style=for-the-badge&logo=uva&logoColor=white)](https://uhunt.onlinejudge.org/id/1075940)
 <br></br>
 
 ### Technology / Tools :
