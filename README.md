@@ -41,7 +41,7 @@ I am a passionate competitive programmer who participated in various national an
 * Built multiple academic group projects.  
 * Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
 * Experienced in **Problem setting, testing, judging and organizing** for programming contests in **Toph**.
-* Experienced in **Problem Testing** at **Codeforces**.
+* Experienced in **Problem Testing** at **Codeforces**. [link](https://codeforces.com/blog/entry/131368)
 
 <br></br>
 ### Connect With Me :
