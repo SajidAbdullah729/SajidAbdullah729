@@ -49,9 +49,9 @@ I am a passionate competitive programmer who participated in various national an
 ### Connect With Me :
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SajidAbdullah729)  
-&emsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-aa6243201//)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SajidAbdullah729)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer)
+
 <br></br>
 ### Problem Solving Experience :
 
