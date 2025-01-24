@@ -49,7 +49,8 @@ I am a passionate competitive programmer who participated in various national an
 ### Connect With Me :
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SajidAbdullah729)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SajidAbdullah729)
+&emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer)
 
 <br></br>
