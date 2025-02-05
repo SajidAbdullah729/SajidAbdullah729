@@ -6,7 +6,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
 
-![](https://raw.githubusercontent.com/SajidAbdullah/cf-stats/main/output/light_card
 ![Badge](https://cp-logo.vercel.app/codechef/lawliet11235)
 ![Badge](https://cp-logo.vercel.app/atcoder/Lawliet112358)
 
