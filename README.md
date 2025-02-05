@@ -6,6 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
 
+[![Codeforces Rating of @baoshuo](https://cfrating.baoshuo.dev/max_rating?username=SajidAbdullah&style=for-the-badge)](https://codeforces/profile/SajidAbdullah)
 ![Badge](https://cp-logo.vercel.app/codechef/lawliet11235)
 ![Badge](https://cp-logo.vercel.app/atcoder/Lawliet112358)
 
