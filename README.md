@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://codeforces.com/profile/SajidAbdullah">
-    <img src="https://img.shields.io/badge/Codeforces-1613-00008B?style=for-the-badge&logo=codeforces" width="120" height="20">
+    <img src="https://img.shields.io/badge/Codeforces-1613-0000FF?style=for-the-badge&logo=codeforces" width="120" height="20">
   </a>
   <a href="https://www.codechef.com/users/aaa">
     <img src="https://cp-logo.vercel.app/codechef/lawliet11235?logo=true">
