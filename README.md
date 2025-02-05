@@ -152,7 +152,7 @@ I am a passionate competitive programmer who participated in various national an
 <br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true&theme=radical)
 <br></br>
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SajidAbdullah)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SajidAbdullah&theme=radical)
 
 
 
