@@ -5,12 +5,10 @@
 ### Bangladesh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
+
 <a href="https://codeforces.com/profile/SajidAbdullah" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-1613-blue?style=for-the-badge&logo=codeforces" width="150" height="20">
-</a>
-
-[![Badge](https://cp-logo.vercel.app/codechef/lawliet11235?logo=true)](https://www.codechef.com/users/lawliet11235)
-[![Badge](https://cp-logo.vercel.app/atcoder/Lawliet112358?logo=true)](https://www.codechef.com/users/Lawliet112358)
+</a> [![Badge](https://cp-logo.vercel.app/codechef/lawliet11235?logo=true)](https://www.codechef.com/users/lawliet11235)[![Badge](https://cp-logo.vercel.app/atcoder/Lawliet112358?logo=true)](https://www.codechef.com/users/Lawliet112358)
 
 
 
