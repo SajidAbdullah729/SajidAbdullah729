@@ -5,7 +5,6 @@
 ### Bangladesh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
-
 <a href="https://codeforces.com/profile/SajidAbdullah" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-1613-blue?style=for-the-badge&logo=codeforces" width="120" height="20">
 </a> 
