@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
 
-<img src="https://img.shields.io/badge/Codeforces-1613-blue?style=for-the-badge&logo=codeforces" width="150" height="25">
+<img src="https://img.shields.io/badge/Codeforces-1613-blue?style=for-the-badge&logo=codeforces" width="150" height="10">
 
 ![Badge](https://cp-logo.vercel.app/codechef/lawliet11235)
 ![Badge](https://cp-logo.vercel.app/atcoder/Lawliet112358)
