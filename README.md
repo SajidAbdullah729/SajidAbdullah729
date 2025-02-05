@@ -12,6 +12,18 @@
 [![Badge](https://cp-logo.vercel.app/codechef/lawliet11235?logo=true)](https://www.codechef.com/users/lawliet11235)
 [![Badge](https://cp-logo.vercel.app/atcoder/Lawliet112358?logo=true)](https://www.codechef.com/users/Lawliet112358)
 
+<p align="left">
+  <a href="https://codeforces.com/profile/SajidAbdullah">
+    <img src="https://img.shields.io/badge/Codeforces-1613-blue?style=for-the-badge&logo=codeforces" width="120" height="20">
+  </a>
+  <a href="https://www.codechef.com/users/aaa">
+    <img src="https://cp-logo.vercel.app/codechef/lawliet11235?logo=true">
+  </a>
+  <a href="https://www.codechef.com/users/aaa">
+    <img src="https://cp-logo.vercel.app/atcoder/Lawliet112358?logo=true">
+  </a>
+</p>
+
 
 
 
