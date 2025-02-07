@@ -33,7 +33,7 @@ I am a passionate competitive programmer who participated in various national an
 * **Ranked 54th(Excluding Guest,IOI)**  in [ACM-ICPC Dhaka Regional Contest 2023( Team: AUST_Shunno7 )](https://icpc.global/regionals/finder/Dhaka-2024/standings)  
 
 * **Ranked 11th** in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014**   
-* **Ranked 14th** in **IUT Inter University Programming Contest 2024** ( Team: **AUST_RedX** )
+* **Ranked 14th** in [IUT Inter University Programming Contest 2024 ( Team: AUST_RedX )](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)
 * **Ranked 11th** in **National Collegiate Programming Contest JU 2024 Preliminary** (Team: **AUST_RedX** )     
 * **Ranked 38th** in **National Collegiate Programming Contest JU 2024** (Team: **AUST_RedX** )   
 * **Ranked 38th** in **CUET Inter University Programming Contest 2024** ( Team: **AUST_Shunno7** )  
