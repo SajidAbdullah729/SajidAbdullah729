@@ -28,19 +28,19 @@ I am a passionate competitive programmer who participated in various national an
 
 **- Achievements in Onsite Programming Contest :**
 
-* **Ranked 28th(Excluding Guest,IOI)** in **[ACM-ICPC Dhaka Regional Contest 2022 ( Team: AUST_CrackPlatoon )](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings)**
-* **Ranked 51st** in **[ACM-ICPC ASIA-WEST Continent Final 2022 ( Team: AUST_CrackPlatoon )](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings)**
-* **Ranked 54th(Excluding Guest,IOI)**  in **[ACM-ICPC Dhaka Regional Contest 2023( Team: AUST_Shunno7 )](https://icpc.global/regionals/finder/Dhaka-2024/standings)**
+* **Ranked [28th]((https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings))(Excluding Guest,IOI)** in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )
+* **Ranked [51st]((https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings))** in **ACM-ICPC ASIA-WEST Continent Final 2022** ( Team: **AUST_CrackPlatoon** )
+* **Ranked [54th](https://icpc.global/regionals/finder/Dhaka-2024/standings)(Excluding Guest,IOI)**  in **ACM-ICPC Dhaka Regional Contest 2023**( Team: **AUST_Shunno7** )
 
-* **Ranked 11th** in [Bangladesh Informatics Olympiad National Round(Junior Group) 2014](https://web.archive.org/web/20230405143627/https://algo.codemarshal.org/contests/bio-nr-2014-j)   
-* **Ranked 14th** in [IUT Inter University Programming Contest 2024 ( Team: AUST_RedX )](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)
-* **Ranked 11th** in [National Collegiate Programming Contest JU 2024 Preliminary (Team: AUST_RedX )](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings)   
-* **Ranked 38th** in [National Collegiate Programming Contest JU 2024 (Team: AUST_RedX )](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) 
-* **Ranked 38th** in [CUET Inter University Programming Contest 2024 ( Team: AUST_Shunno7 )](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings)  
+* **Ranked [11th](https://web.archive.org/web/20230405143627/https://algo.codemarshal.org/contests/bio-nr-2014-j)** in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014**
+* **Ranked [14th](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)** in **IUT Inter University Programming Contest 2024** ( Team: **AUST_RedX** )
+* **Ranked [11th](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings)** in **National Collegiate Programming Contest JU 2024 Preliminary** (Team: **AUST_RedX** )   
+* **Ranked [38th](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings)** in **National Collegiate Programming Contest JU 2024** (Team: **AUST_RedX** )
+* **Ranked [38th](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings)** in **CUET Inter University Programming Contest 2024** ( Team: **AUST_Shunno7** ) 
 
-* **Ranked 53rd** in [AUST Inter University Programming Contest 2022 ( Team: AUST_SLYTHERIN )](https://web.archive.org/web/20221201173754/https://algo.codemarshal.org/contests/aust-2022/standings)    
-* **Ranked 74th** in [BUET Inter University Programming Contest 2022 ( Team: AUST_SillyMistakes )](https://toph.co/c/buet-inter-university-2022/standings) 
-* **Ranked 86th** in [BUET Inter University Programming Contest 2023 ( Team: AUST_Badamtola )](https://toph.co/c/buet-inter-university-2023/standings) 
+* **Ranked [53rd](https://web.archive.org/web/20221201173754/https://algo.codemarshal.org/contests/aust-2022/standings)** in **AUST Inter University Programming Contest 2022** ( Team: **AUST_SLYTHERIN** )   
+* **Ranked [74th](https://toph.co/c/buet-inter-university-2022/standings)** in **BUET Inter University Programming Contest 2022** ( Team: **AUST_SillyMistakes** )
+* **Ranked [86th](https://toph.co/c/buet-inter-university-2023/standings)** in **BUET Inter University Programming Contest 2023** ( Team: **AUST_Badamtola** ) 
 
 * **Ranked [1st](https://toph.co/contests/training/g2jtqtr/standings)**, **[2nd](https://toph.co/contests/training/6p8qhfa/standings)**, **[3rd](https://toph.co/contests/training/ah224ff/standings)**, and **[4th](https://toph.co/contests/training/wph37wb/standings)** in different editions of the **Intra-University Programming Contests**.
 <br></br>
