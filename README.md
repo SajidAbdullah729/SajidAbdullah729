@@ -10,10 +10,10 @@
   <a href="https://codeforces.com/profile/SajidAbdullah" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Codeforces-1613-0000FF?style=for-the-badge&logo=codeforces" width="140" height="20">
   </a>
-  <a href="https://www.codechef.com/users/aaa" style="display: inline-block;">
+  <a href="https://www.codechef.com/users/lawliet11235" style="display: inline-block;">
     <img src="https://cp-logo.vercel.app/codechef/lawliet11235?logo=true">
   </a>
-  <a href="https://www.codechef.com/users/aaa" style="display: inline-block;">
+  <a href="https://www.codechef.com/users/Lawliet112358" style="display: inline-block;">
     <img src="https://cp-logo.vercel.app/atcoder/Lawliet112358?logo=true">
   </a>
 </p>
