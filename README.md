@@ -28,9 +28,9 @@ I am a passionate competitive programmer who participated in various national an
 
 **- Achievements in Onsite Programming Contest :**
 
-* **Ranked 28th(Excluding Guest,IOI)** in [ACM-ICPC Dhaka Regional Contest 2022 ( Team: AUST_CrackPlatoon )](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings)  
-* **Ranked 51st** in [ACM-ICPC ASIA-WEST Continent Final 2022 ( Team: AUST_CrackPlatoon )](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings)
-* **Ranked 54th(Excluding Guest,IOI)**  in [ACM-ICPC Dhaka Regional Contest 2023( Team: AUST_Shunno7 )](https://icpc.global/regionals/finder/Dhaka-2024/standings)  
+* **Ranked 28th(Excluding Guest,IOI)** in **[ACM-ICPC Dhaka Regional Contest 2022 ( Team: AUST_CrackPlatoon )](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings)**
+* **Ranked 51st** in **[ACM-ICPC ASIA-WEST Continent Final 2022 ( Team: AUST_CrackPlatoon )](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings)**
+* **Ranked 54th(Excluding Guest,IOI)**  in **[ACM-ICPC Dhaka Regional Contest 2023( Team: AUST_Shunno7 )](https://icpc.global/regionals/finder/Dhaka-2024/standings)**
 
 * **Ranked 11th** in [Bangladesh Informatics Olympiad National Round(Junior Group) 2014](https://web.archive.org/web/20230405143627/https://algo.codemarshal.org/contests/bio-nr-2014-j)   
 * **Ranked 14th** in [IUT Inter University Programming Contest 2024 ( Team: AUST_RedX )](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)
