@@ -29,7 +29,7 @@ I am a passionate competitive programmer who participated in various national an
 **- Achievements in Onsite Programming Contest :**
 
 * **Ranked 28th(Excluding Guest,IOI)** in [ACM-ICPC Dhaka Regional Contest 2022 ( Team: AUST_CrackPlatoon )](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings)  
-* **Ranked 51st** in [ACM-ICPC ASIA-WEST Continent Final 2022** ( Team: AUST_CrackPlatoon )](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings)
+* **Ranked 51st** in [ACM-ICPC ASIA-WEST Continent Final 2022 ( Team: AUST_CrackPlatoon )](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings)
 * **Ranked 54th(Excluding Guest,IOI)**  in [ACM-ICPC Dhaka Regional Contest 2023( Team: AUST_Shunno7 )](https://icpc.global/regionals/finder/Dhaka-2024/standings)  
 
 * **Ranked 11th** in [Bangladesh Informatics Olympiad National Round(Junior Group) 2014](https://web.archive.org/web/20230405143627/https://algo.codemarshal.org/contests/bio-nr-2014-j)   
@@ -39,10 +39,10 @@ I am a passionate competitive programmer who participated in various national an
 * **Ranked 38th** in [CUET Inter University Programming Contest 2024 ( Team: AUST_Shunno7 )](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings)  
 
 * **Ranked 53rd** in [AUST Inter University Programming Contest 2022 ( Team: AUST_SLYTHERIN )](https://web.archive.org/web/20221201173754/https://algo.codemarshal.org/contests/aust-2022/standings)    
-* **Ranked 74th** in **BUET Inter University Programming Contest 2022** ( Team: **AUST_SillyMistakes** )    
-* **Ranked 86th** in **BUET Inter University Programming Contest 2023** ( Team: **AUST_Badamtola** )  
+* **Ranked 74th** in [BUET Inter University Programming Contest 2022 ( Team: AUST_SillyMistakes )](https://toph.co/c/buet-inter-university-2022/standings) 
+* **Ranked 86th** in [BUET Inter University Programming Contest 2023 ( Team: AUST_Badamtola )](https://toph.co/c/buet-inter-university-2023/standings) 
 
-* **Ranked 1st**, **2nd**, **3rd**, and **4th** in different editions of the **Intra-University Programming Contests**.
+* **Ranked [1st](https://toph.co/contests/training/g2jtqtr/standings)**, **2nd**, **3rd**, and **4th** in different editions of the **Intra-University Programming Contests**.
 <br></br>
 
 **- Achievements in Bangladesh Mathematical Olympiad :**
