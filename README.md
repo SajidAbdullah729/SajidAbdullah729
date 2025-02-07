@@ -42,7 +42,7 @@ I am a passionate competitive programmer who participated in various national an
 * **Ranked 74th** in [BUET Inter University Programming Contest 2022 ( Team: AUST_SillyMistakes )](https://toph.co/c/buet-inter-university-2022/standings) 
 * **Ranked 86th** in [BUET Inter University Programming Contest 2023 ( Team: AUST_Badamtola )](https://toph.co/c/buet-inter-university-2023/standings) 
 
-* **Ranked [1st](https://toph.co/contests/training/g2jtqtr/standings)**, **2nd**, **3rd**, and **4th** in different editions of the **Intra-University Programming Contests**.
+* **Ranked [1st](https://toph.co/contests/training/g2jtqtr/standings)**, **[2nd](https://toph.co/contests/training/6p8qhfa/standings)**, **[3rd](https://toph.co/contests/training/ah224ff/standings)**, and **[4th](https://toph.co/contests/training/wph37wb/standings)** in different editions of the **Intra-University Programming Contests**.
 <br></br>
 
 **- Achievements in Bangladesh Mathematical Olympiad :**
