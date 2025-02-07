@@ -32,13 +32,13 @@ I am a passionate competitive programmer who participated in various national an
 * **Ranked 51st** in [ACM-ICPC ASIA-WEST Continent Final 2022** ( Team: AUST_CrackPlatoon )](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings)
 * **Ranked 54th(Excluding Guest,IOI)**  in [ACM-ICPC Dhaka Regional Contest 2023( Team: AUST_Shunno7 )](https://icpc.global/regionals/finder/Dhaka-2024/standings)  
 
-* **Ranked 11th** in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014**   
+* **Ranked 11th** in [Bangladesh Informatics Olympiad National Round(Junior Group) 2014](https://web.archive.org/web/20230405143627/https://algo.codemarshal.org/contests/bio-nr-2014-j)   
 * **Ranked 14th** in [IUT Inter University Programming Contest 2024 ( Team: AUST_RedX )](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)
-* **Ranked 11th** in **National Collegiate Programming Contest JU 2024 Preliminary** (Team: **AUST_RedX** )     
-* **Ranked 38th** in **National Collegiate Programming Contest JU 2024** (Team: **AUST_RedX** )   
-* **Ranked 38th** in **CUET Inter University Programming Contest 2024** ( Team: **AUST_Shunno7** )  
+* **Ranked 11th** in [National Collegiate Programming Contest JU 2024 Preliminary (Team: AUST_RedX )](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings)   
+* **Ranked 38th** in [National Collegiate Programming Contest JU 2024 (Team: AUST_RedX )](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) 
+* **Ranked 38th** in [CUET Inter University Programming Contest 2024 ( Team: AUST_Shunno7 )](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings)  
 
-* **Ranked 53rd** in **AUST Inter University Programming Contest 2022** ( Team: **AUST_SLYTHERIN** )     
+* **Ranked 53rd** in [AUST Inter University Programming Contest 2022 ( Team: AUST_SLYTHERIN )](https://web.archive.org/web/20221201173754/https://algo.codemarshal.org/contests/aust-2022/standings)    
 * **Ranked 74th** in **BUET Inter University Programming Contest 2022** ( Team: **AUST_SillyMistakes** )    
 * **Ranked 86th** in **BUET Inter University Programming Contest 2023** ( Team: **AUST_Badamtola** )  
 
