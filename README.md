@@ -28,9 +28,9 @@ I am a passionate competitive programmer who participated in various national an
 
 **- Achievements in Onsite Programming Contest :**
 
-* **Ranked [28th](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings)** in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )
+* **Ranked [28th](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings)** in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )[Excluding IOI and Guest]
 * **Ranked [51st](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings)** in **ACM-ICPC ASIA-WEST Continent Final 2022** ( Team: **AUST_CrackPlatoon** )
-* **Ranked [54th](https://icpc.global/regionals/finder/Dhaka-2024/standings)**  in **ACM-ICPC Dhaka Regional Contest 2023**( Team: **AUST_Shunno7** )
+* **Ranked [54th](https://icpc.global/regionals/finder/Dhaka-2024/standings)**  in **ACM-ICPC Dhaka Regional Contest 2023**( Team: **AUST_Shunno7** )[Excluding IOI and Guest]
 
 * **Ranked [11th](https://web.archive.org/web/20230405143627/https://algo.codemarshal.org/contests/bio-nr-2014-j)** in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014**
 * **Ranked [14th](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)** in **IUT Inter University Programming Contest 2024** ( Team: **AUST_RedX** )
