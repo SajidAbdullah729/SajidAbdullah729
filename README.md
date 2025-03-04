@@ -22,7 +22,7 @@
 
 
 Welcome to my Github Profile!
-I am a passionate competitive programmer who participated in various national and international programming contests. I am hugely interested in software engineering fundamentals. If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
+I am a passionate programmer who participated in various national and international programming contests. Love to write code and enjoy solving problems. If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
 
 <br></br>
 
