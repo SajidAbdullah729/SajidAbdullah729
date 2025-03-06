@@ -35,9 +35,10 @@ Love to write code and enjoy solving problems. Love to solve real world problems
 
 * **Ranked [11th](https://web.archive.org/web/20230405143627/https://algo.codemarshal.org/contests/bio-nr-2014-j)** in **Bangladesh Informatics Olympiad National Round(Junior Group) 2014**
 * **Ranked [14th](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)** in **IUT Inter University Programming Contest 2024** ( Team: **AUST_RedX** )
-* **Ranked [11th](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings)** in **National Collegiate Programming Contest JU 2024 Preliminary** (Team: **AUST_RedX** )   
+* **Ranked [11th](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings)** in **National Collegiate Programming Contest JU 2024 Preliminary** (Team: **AUST_RedX** )  
+* **Ranked [36th](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings)** in **CUET Inter University Programming Contest 2024** ( Team: **AUST_Shunno7** ) 
 * **Ranked [38th](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings)** in **National Collegiate Programming Contest JU 2024** (Team: **AUST_RedX** )
-* **Ranked [38th](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings)** in **CUET Inter University Programming Contest 2024** ( Team: **AUST_Shunno7** ) 
+ 
 
 * **Ranked [53rd](https://web.archive.org/web/20221201173754/https://algo.codemarshal.org/contests/aust-2022/standings)** in **AUST Inter University Programming Contest 2022** ( Team: **AUST_SLYTHERIN** )   
 * **Ranked [74th](https://toph.co/c/buet-inter-university-2022/standings)** in **BUET Inter University Programming Contest 2022** ( Team: **AUST_SillyMistakes** )
