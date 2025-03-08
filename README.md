@@ -161,7 +161,7 @@ Love to write code and enjoy solving problems. Love to solve real world problems
        alt="Android Studio" width="40" height="40"/></a>
 &emsp;
 <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/drizzle-team/drizzle/main/assets/drizzle-orm-logo.svg" alt="Drizzle ORM" width="40" height="40"/>
+  <img src="https://github.com/SajidAbdullah729/SajidAbdullah729/blob/main/assets/drizzle.png" alt="Drizzle ORM" width="40" height="40"/>
 </a>
 </p>
 
