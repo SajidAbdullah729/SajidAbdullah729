@@ -159,10 +159,7 @@ Love to write code and enjoy solving problems. Love to solve real world problems
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" 
        alt="Android Studio" width="40" height="40"/></a>
-  &emps;
-  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/drizzle-team/drizzle/main/assets/drizzle-orm-logo.svg" alt="Drizzle ORM" width="40" height="40"/>
-</a>
+</p>
 
 
 
