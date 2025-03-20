@@ -1,8 +1,6 @@
 # Mohammad Abdullah-Al-Sajid Chowdhury 
 ## Software Engineer
-## Finalist @ICPC Asia West Continent
-## Competitive Programmer
-### Bangladesh
+## Finalist @ACM ICPC Asia West Continent
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
 
