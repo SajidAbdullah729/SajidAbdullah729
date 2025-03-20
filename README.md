@@ -21,7 +21,7 @@
 
 Welcome to my Github Profile!
 
-Love to write code and enjoy solving problems. Love to solve real world problems. Participated in various national and international programming contests. If you are looking for a programmer with **problem solving skills**, you can contact me at **LinkedIn**.  
+Love to write code and enjoy solving problems. Participant of ACM ICPC style Contests. You can contact me at **LinkedIn**.
 
 <br></br>
 
