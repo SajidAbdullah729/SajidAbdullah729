@@ -44,8 +44,8 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. Par
 
 * **2 times National Round** Participant in **2012** and **2014** in Junior Group (**Regional Winners** from Chittagong.)   
 <br></br>
-**- Experiences :**
 
+**- Experiences :**
 * Built multiple academic group projects.  
 * Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
 * Experienced in **Problem setting, testing, judging and organizing** for programming contests in **Toph**.
