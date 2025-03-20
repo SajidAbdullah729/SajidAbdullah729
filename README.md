@@ -20,7 +20,7 @@
 Welcome to my Github Profile! Love to write code and enjoy solving problems. Participant of ACM ICPC style Contests. You can contact me at **LinkedIn**.
 <br></br>
 
-**- Achievements in Onsite Programming Contest :**
+**- Achievements :**
 
 * **Ranked [28th](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings)** in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )[Excluding IOI and Guest]
 * **Ranked [51st](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings)** in **ACM-ICPC ASIA-WEST Continent Final 2022** ( Team: **AUST_CrackPlatoon** )
