@@ -17,8 +17,6 @@
 </p>
 
 
-
-
 Welcome to my Github Profile! Love to write code and enjoy solving problems. Participant of ACM ICPC style Contests. You can contact me at **LinkedIn**.
 <br></br>
 
