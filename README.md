@@ -1,6 +1,6 @@
 # Mohammad Abdullah-Al-Sajid Chowdhury 
 ## Software Engineer
-## ACM ICPC Asia West Continent Finalist
+## Finalist @ICPC Asia West Continent
 ## Competitive Programmer
 ### Bangladesh
 
