@@ -51,7 +51,7 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 &emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer)
 <br></br>
-### 👨🏽‍💻 Problem Solving Experience :
+### 💡 Problem Solving Experience :
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SajidAbdullah) 
 &emsp;
