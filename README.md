@@ -53,10 +53,14 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 
 
 **-💼 Experiences :**
-* Built multiple academic group projects.  
-* Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
-* Experienced in **Problem setting, testing, judging and organizing** for programming contests in **Toph**.
-* Experienced in **Problem Testing** at  **[Codeforces Round #957 (Div. 3)](https://codeforces.com/blog/entry/131368)**
+🚀 Built multiple academic group projects.  
+
+🚀 Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
+
+🚀 Experienced in **Problem setting, testing, judging and organizing** for programming contests in **Toph**.  
+
+🚀 Experienced in **Problem Testing** at  **[Codeforces Round #957 (Div. 3)](https://codeforces.com/blog/entry/131368)**  
+
 <br></br>
 ### 🌐 Connect With Me :
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SajidAbdullah729)
