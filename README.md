@@ -53,6 +53,11 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 🥈 **2 times National Round** Participant in **2012** and **2014** in Junior Group (**Regional Winners** from Chittagong.)      
 
 <br></br>
+
+### 💻 Professional Experience:  
+
+💼 Software Engineer at **Pioneer Alpha**
+    
 ### 💼  Experiences :  
 
 🚀 Built multiple academic group projects.  
