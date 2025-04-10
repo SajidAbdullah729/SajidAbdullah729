@@ -73,7 +73,7 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 <br></br>
 [![ICPC](https://img.shields.io/badge/ICPC-1F8ACB?style=for-the-badge&logo=icpc&logoColor=white)](https://icpc.global/ICPCID/O5VOX4CA0KRM)
 <br></br>
-### Technology / Tools :
+### 💻 Technology / Tools :
 
 
 <p align="left">
