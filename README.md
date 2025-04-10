@@ -152,7 +152,7 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 
 <br></br>
 
-### Statistics :
+### 📊 Statistics :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidAbdullah729&show_icons=true&theme=merko&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
