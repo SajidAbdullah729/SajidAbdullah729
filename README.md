@@ -54,11 +54,6 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 
 <br></br>
 
-### 💻 Professional Experience:  
-
-💼 Software Engineer at **Pioneer Alpha**  
-
-
     
 ### 💼  Experiences :  
 
