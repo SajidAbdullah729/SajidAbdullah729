@@ -18,7 +18,7 @@
 
 
 ### 👨‍🏫  About Me:  
-
+<br></br>
 Welcome to my Github Profile! Love to write code and enjoy solving problems. You can contact me at **LinkedIn**.
 <br></br>
 
@@ -56,7 +56,7 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 
     
 ### 🛠️  Experiences :  
-
+<br></br>
 🚀 Built multiple academic group projects.  
 
 🚀 Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
@@ -67,11 +67,13 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 
 <br></br>
 ### 🌐  Connect With Me :
+<br></br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SajidAbdullah729)
 &emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer)
 <br></br>
 ### 💡  Problem Solving Experience :
+<br></br>
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SajidAbdullah) 
 &emsp;
@@ -96,8 +98,7 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 [![ICPC](https://img.shields.io/badge/ICPC-1F8ACB?style=for-the-badge&logo=icpc&logoColor=white)](https://icpc.global/ICPCID/O5VOX4CA0KRM)
 <br></br>
 ### 💻  Technology / Tools :
-
-
+<br></br>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
  &emsp;
@@ -173,6 +174,7 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 <br></br>
 
 ### 📊  Statistics :
+<br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidAbdullah729&show_icons=true&theme=merko&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
