@@ -17,12 +17,12 @@
 </p>
 
 
-**- 👨‍🏫 About Me:**
+**-👨‍🏫 About Me:**
 
 Welcome to my Github Profile! Love to write code and enjoy solving problems. You can contact me at **LinkedIn**.
 <br></br>
 
-**- 👨🏽‍💻 Achievements :**
+**- 🏆 Achievements :**
 
 * ⚡ **Ranked [28th](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings)** in **ACM-ICPC Dhaka Regional Contest 2022** ( Team: **AUST_CrackPlatoon** )[Excluding IOI and Guest]
 * ⚡ **Ranked [51st](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings)** in **ACM-ICPC ASIA-WEST Continent Final 2022** ( Team: **AUST_CrackPlatoon** )
@@ -51,7 +51,7 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 &emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer)
 <br></br>
-### Problem Solving Experience :
+### 👨🏽‍💻 Problem Solving Experience :
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SajidAbdullah) 
 &emsp;
