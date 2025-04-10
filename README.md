@@ -56,7 +56,8 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 
     
 ### 🛠️  Experiences :  
-<br></br>
+
+
 🚀 Built multiple academic group projects.  
 
 🚀 Experienced in Machine Learning and Deep Learning Models for my undergraduate thesis.   
@@ -66,14 +67,16 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 🚀 Experienced in **Problem Testing** at  **[Codeforces Round #957 (Div. 3)](https://codeforces.com/blog/entry/131368)**  
 
 <br></br>
-### 🌐  Connect With Me :
-<br></br>
+### 🌐  Connect With Me :    
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SajidAbdullah729)
 &emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer)
 <br></br>
-### 💡  Problem Solving Experience :
-<br></br>
+### 💡  Problem Solving Experience :    
+
+
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SajidAbdullah) 
 &emsp;
@@ -98,7 +101,8 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 [![ICPC](https://img.shields.io/badge/ICPC-1F8ACB?style=for-the-badge&logo=icpc&logoColor=white)](https://icpc.global/ICPCID/O5VOX4CA0KRM)
 <br></br>
 ### 💻  Technology / Tools :
-<br></br>
+
+
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
  &emsp;
