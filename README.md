@@ -1,6 +1,6 @@
 # Mohammad Abdullah-Al-Sajid Chowdhury
-## 🔭 Finalist @ACM ICPC Asia West Continent 
-## 🔭 Software Engineer
+## 📝 Finalist @ACM ICPC Asia West Continent 
+## 📝 Software Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajidAbdullah729&color=orange)
 
