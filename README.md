@@ -49,7 +49,7 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 
 🥉 **Ranked [86th](https://toph.co/c/buet-inter-university-2023/standings)** in **BUET Inter University Programming Contest 2023** ( Team: **AUST_Badamtola** )   
 
-
+<br></br>
 🥇 **Ranked [1st](https://toph.co/contests/training/g2jtqtr/standings)**, **[2nd](https://toph.co/contests/training/6p8qhfa/standings)**, **[3rd](https://toph.co/contests/training/ah224ff/standings)**, and **[4th](https://toph.co/contests/training/wph37wb/standings)** in different editions of the **Intra-University Programming Contests**.   
 
 🥈 **2 times National Round** Participant in **2012** and **2014** in Junior Group (**Regional Winners** from Chittagong.)      
