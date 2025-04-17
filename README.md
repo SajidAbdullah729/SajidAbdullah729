@@ -38,9 +38,7 @@ Welcome to my Github Profile! Love to write code and enjoy solving problems. You
 🥇 **Ranked [11th](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings)** in **National Collegiate Programming Contest JU 2024 Preliminary** (Team: **AUST_RedX** )  
 
 🥇 **Ranked [14th](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)** in **IUT Inter University Programming Contest 2024** ( Team: **AUST_RedX** )  
-
-
-
+<br></br>
 🥈 **Ranked [36th](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings)** in **CUET Inter University Programming Contest 2024** ( Team: **AUST_Shunno7** )  
 
 🥈 **Ranked [38th](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings)** in **National Collegiate Programming Contest JU 2024** (Team: **AUST_RedX** )  
