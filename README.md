@@ -9,13 +9,7 @@
   <a href="https://codeforces.com/profile/SajidAbdullah" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Codeforces-1613-0000FF?style=for-the-badge&logo=codeforces">
   </a>
-  <a href="https://www.codechef.com/users/lawliet11235" style="display: inline-block;">
-   
-    Codechef 1886
-  </a>
-  <a href="https://atcoder.jp/users/Lawliet112358" style="display: inline-block;">
-    <img src="https://cp-logo.vercel.app/atcoder/Lawliet112358?logo=true">
-  </a>
+  
 </p>
 
 ### 🌐  Connect With Me :    
