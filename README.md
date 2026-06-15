@@ -14,14 +14,14 @@
 <p align="left">
 
   <a href="https://www.codechef.com/users/lawliet11235">
-    <img src="assets/codechef.svg" width="260" height="45" />
+    <img src="assets/codechef.svg" width="200" height="45" />
   </a>
 </p>
 
 <p align="left">
 
   <a href="https://leetcode.com/u/SajidAbdullah">
-    <img src="assets/leetcode.svg" width="260" height="45" />
+    <img src="assets/leetcode.svg" width="200" height="45" />
   </a>
 </p>
 
