@@ -3,13 +3,6 @@
 ### 📝 Finalist @ACM ICPC Asia West Continent  
 ### 📝 Software Engineer  
 
-<p align="left">
-
-  <a href="https://codeforces.com/profile/SajidAbdullah">
-    <img src="https://img.shields.io/badge/Codeforces-1613-0000FF?style=for-the-badge&logo=codeforces">
-  </a>
-
-</p>
 
 <p align="left">
 
