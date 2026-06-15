@@ -29,6 +29,13 @@
   
 </p>
 
+<p align="left">
+
+  <a href="https://sajidabdullah729.github.io">
+    <img src="assets/portfolio.svg" width="200" height="30" />
+  </a>
+</p>
+
 
 
 
