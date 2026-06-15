@@ -41,7 +41,7 @@
             font-family="Arial, sans-serif"
             font-size="14"
             fill="white">
-        CodeChef • ggg
+        CodeChef • SajidAbdullah
       </text>
 
     </svg>
