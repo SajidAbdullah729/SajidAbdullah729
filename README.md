@@ -13,6 +13,13 @@
 
 <p align="left">
 
+  <a href="https://www.codeforces.com/profile/SajidAbdullah">
+    <img src="assets/codeforces.svg" width="200" height="30" />
+  </a>
+</p>
+
+<p align="left">
+
   <a href="https://www.codechef.com/users/lawliet11235">
     <img src="assets/codechef.svg" width="200" height="30" />
   </a>
