@@ -16,23 +16,7 @@
 
   <a href="https://www.codechef.com/users/lawliet11235">
 
-    <img
-      src="data:image/svg+xml;utf8,
-      <svg xmlns='http://www.w3.org/2000/svg' width='260' height='45' viewBox='0 0 260 45'>
-        <rect width='260' height='45' rx='10' fill='%235B4638'/>
-        
-        <path d='M22 10 C18 10,16 14,18 16 C15 17,15 22,19 22 H25 C29 22,29 17,26 16 C28 14,26 10,22 10 Z'
-              fill='white'/>
-        <rect x='18' y='22' width='8' height='6' rx='2' fill='white'/>
-
-        <text x='55' y='20' font-family='Arial' font-size='13' fill='white' font-weight='bold'>
-          CodeChef
-        </text>
-
-        <text x='55' y='36' font-family='Arial' font-size='12' fill='%23f5e6d8'>
-          Rating: 1886
-        </text>
-      </svg>"
+    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='260'%20height='45'%20viewBox='0%200%20260%2045'%3E%3Crect%20width='260'%20height='45'%20rx='10'%20fill='%235B4638'/%3E%3Cpath%20d='M22%2010%20C18%2010,16%2014,18%2016%20C15%2017,15%2022,19%2022%20H25%20C29%2022,29%2017,26%2016%20C28%2014,26%2010,22%2010%20Z'%20fill='white'/%3E%3Crect%20x='18'%20y='22'%20width='8'%20height='6'%20rx='2'%20fill='white'/%3E%3Ctext%20x='55'%20y='20'%20font-family='Arial'%20font-size='13'%20fill='white'%20font-weight='bold'%3ECodeChef%3C/text%3E%3Ctext%20x='55'%20y='36'%20font-family='Arial'%20font-size='12'%20fill='%23f5e6d8'%3ERating:%201886%3C/text%3E%3C/svg%3E"
     />
 
   </a>
