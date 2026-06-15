@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="36" viewBox="0 0 210 36">
+
+  <!-- Background -->
+  <rect width="210" height="36" rx="8" fill="#FFA116"/>
+
+  <!-- LEFT: ICON -->
+  <g>
+    <!-- simple leetcode-style "L" + circle hint -->
+    <circle cx="20" cy="18" r="6" fill="white"/>
+    <path d="M18 12 L18 26 L26 26" stroke="#FFA116" stroke-width="2" fill="none"/>
+
+    <!-- Name -->
+    <text x="40" y="23"
+          font-family="Arial, sans-serif"
+          font-size="12"
+          fill="white"
+          font-weight="bold">
+      LeetCode
+    </text>
+  </g>
+
+  <!-- RIGHT: NUMBER AREA -->
+  <g>
+    <!-- separator -->
+    <line x1="145" y1="8" x2="145" y2="28" stroke="rgba(255,255,255,0.35)" />
+
+    <!-- score / ranking -->
+    <text x="165" y="23"
+          font-family="Arial, sans-serif"
+          font-size="13"
+          fill="#fff3d6"
+          font-weight="bold">
+      1886
+    </text>
+  </g>
+
+</svg>
