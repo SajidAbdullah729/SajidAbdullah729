@@ -19,6 +19,10 @@
   <a href="https://leetcode.com/u/SajidAbdullah">
     <img src="assets/leetcode.svg" width="200" height="30" />
   </a>
+  <a href="https://scholar.google.com/citations?user=nA0Bf6QAAAAJ&hl=en">
+    <img src="assets/google-scholar.svg" width="200" height="30" />
+  </a>
+
 
 
 
