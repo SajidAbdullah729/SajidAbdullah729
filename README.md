@@ -7,7 +7,7 @@
   <a href="https://codeforces.com/profile/SajidAbdullah" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Codeforces-1613-0000FF?style=for-the-badge&logo=codeforces">
   </a>
-  <p align="left">
+  
 
  
 </p>
