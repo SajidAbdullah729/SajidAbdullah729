@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="36" viewBox="0 0 210 36">
+
+  <!-- Background -->
+  <rect width="210" height="36" rx="8" fill="#4285F4"/>
+
+  <!-- LEFT: ICON -->
+  <g>
+    <!-- graduation cap -->
+    <path d="M18 14 L26 14 L22 10 Z" fill="white"/>
+    <rect x="19" y="14" width="6" height="6" fill="white"/>
+    <line x1="22" y1="20" x2="22" y2="24" stroke="white" stroke-width="2"/>
+
+    <!-- TEXT: Google Scholar -->
+    <text x="40" y="23"
+          font-family="Arial, sans-serif"
+          font-size="11.5"
+          fill="white"
+          font-weight="bold">
+      Google Scholar
+    </text>
+  </g>
+
+  <!-- RIGHT: PROFILE -->
+  <g>
+    <!-- separator -->
+    <line x1="145" y1="8" x2="145" y2="28" stroke="rgba(255,255,255,0.35)" />
+
+    <text x="165" y="23"
+          font-family="Arial, sans-serif"
+          font-size="12"
+          fill="#eaf2ff"
+          font-weight="bold">
+      Profile
+    </text>
+  </g>
+
+</svg>
