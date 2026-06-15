@@ -10,39 +10,7 @@
   
 </p>
 
-<a href="https://codeforces.com/profile/SajidAbdullah">
-  <svg width="240" height="45" viewBox="0 0 240 45" xmlns="http://www.w3.org/2000/svg">
 
-    <!-- Background -->
-    <rect width="240" height="45" rx="10" fill="#1F6FEB"/>
-
-    <!-- Icon circle -->
-    <circle cx="22" cy="22.5" r="11" fill="white"/>
-
-    <!-- Simple Codeforces bars icon -->
-    <rect x="18" y="19" width="3" height="10" fill="#1F6FEB"/>
-    <rect x="22" y="16" width="3" height="13" fill="#1F6FEB"/>
-    <rect x="26" y="21" width="3" height="8" fill="#1F6FEB"/>
-
-    <!-- Platform name -->
-    <text x="50" y="20"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="white"
-          font-weight="bold">
-      Codeforces
-    </text>
-
-    <!-- Rating -->
-    <text x="50" y="36"
-          font-family="Arial, sans-serif"
-          font-size="12"
-          fill="#d1e3ff">
-      Rating: 1613
-    </text>
-
-  </svg>
-</a>
 
 
 
