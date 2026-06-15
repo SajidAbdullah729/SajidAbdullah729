@@ -16,34 +16,24 @@
 
   <a href="https://www.codechef.com/users/lawliet11235">
 
-    <svg width="260" height="45" viewBox="0 0 260 45" xmlns="http://www.w3.org/2000/svg">
+    <img
+      src="data:image/svg+xml;utf8,
+      <svg xmlns='http://www.w3.org/2000/svg' width='260' height='45' viewBox='0 0 260 45'>
+        <rect width='260' height='45' rx='10' fill='%235B4638'/>
+        
+        <path d='M22 10 C18 10,16 14,18 16 C15 17,15 22,19 22 H25 C29 22,29 17,26 16 C28 14,26 10,22 10 Z'
+              fill='white'/>
+        <rect x='18' y='22' width='8' height='6' rx='2' fill='white'/>
 
-      <!-- Background -->
-      <rect width="260" height="45" rx="10" fill="#5B4638"/>
+        <text x='55' y='20' font-family='Arial' font-size='13' fill='white' font-weight='bold'>
+          CodeChef
+        </text>
 
-      <!-- Chef icon -->
-      <path d="M22 10 C18 10,16 14,18 16 C15 17,15 22,19 22 H25
-               C29 22,29 17,26 16 C28 14,26 10,22 10 Z"
-            fill="white"/>
-      <rect x="18" y="22" width="8" height="6" rx="2" fill="white"/>
-
-      <!-- Text -->
-      <text x="55" y="20"
-            font-family="Arial, sans-serif"
-            font-size="13"
-            fill="white"
-            font-weight="bold">
-        CodeChef
-      </text>
-
-      <text x="55" y="36"
-            font-family="Arial, sans-serif"
-            font-size="12"
-            fill="#f5e6d8">
-        Rating: 1886
-      </text>
-
-    </svg>
+        <text x='55' y='36' font-family='Arial' font-size='12' fill='%23f5e6d8'>
+          Rating: 1886
+        </text>
+      </svg>"
+    />
 
   </a>
 
