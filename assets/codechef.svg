@@ -1,35 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="45" viewBox="0 0 260 45">
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="36" viewBox="0 0 210 36">
 
   <!-- Background -->
-  <rect width="260" height="45" rx="10" fill="#5B4638"/>
+  <rect width="210" height="36" rx="8" fill="#5B4638"/>
 
-  <!-- LEFT: ICON + NAME -->
+  <!-- LEFT: ICON -->
   <g>
-    <!-- Chef icon -->
-    <path d="M22 10 C18 10,16 14,18 16 C15 17,15 22,19 22 H25
-             C29 22,29 17,26 16 C28 14,26 10,22 10 Z"
+    <path d="M18 8 C15 8,14 11,16 13 C13 14,13 18,17 18 H21
+             C25 18,25 14,22 13 C24 11,23 8,18 8 Z"
           fill="white"/>
 
-    <rect x="18" y="22" width="8" height="6" rx="2" fill="white"/>
+    <rect x="15.5" y="18" width="6.5" height="5" rx="1.5" fill="white"/>
 
-    <!-- Name -->
-    <text x="50" y="28"
+    <text x="40" y="23"
           font-family="Arial, sans-serif"
-          font-size="14"
+          font-size="12"
           fill="white"
           font-weight="bold">
       CodeChef
     </text>
   </g>
 
-  <!-- RIGHT: ONLY NUMBER -->
+  <!-- RIGHT: NUMBER ONLY -->
   <g>
-    <!-- divider -->
-    <line x1="175" y1="12" x2="175" y2="33" stroke="rgba(255,255,255,0.3)" />
+    <line x1="145" y1="8" x2="145" y2="28" stroke="rgba(255,255,255,0.3)" />
 
-    <text x="195" y="29"
+    <text x="165" y="23"
           font-family="Arial, sans-serif"
-          font-size="16"
+          font-size="13"
           fill="#f5e6d8"
           font-weight="bold">
       1886
