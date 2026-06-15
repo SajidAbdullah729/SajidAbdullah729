@@ -49,8 +49,9 @@
 
 ### 🌐 Connect With Me :
 
-<a href="www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer">
+<p align="left">
+<a href="https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer">
     <img src="assets/linkedin.svg" width="200" height="30" />
   </a>
-
+</p>
 <br/>
