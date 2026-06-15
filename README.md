@@ -6,7 +6,7 @@
 
 <p align="left">
 
-  <a href="https://www.codeforces.com/profile/SajidAbdullah">
+  <a href="https://codeforces.com/profile/SajidAbdullah">
     <img src="assets/codeforces.svg" width="200" height="30" />
   </a>
   <a href="https://www.codechef.com/users/lawliet11235">
