@@ -10,12 +10,7 @@
   
 </p>
 
-<p align="left" style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.codechef.com/users/ggg" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Codeforces-1613-0000FF?style=for-the-badge&logo=codeforces">
-  </a>
-  
-</p>
+
 
 
 
