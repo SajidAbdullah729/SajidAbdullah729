@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="36" viewBox="0 0 210 36">
+
+  <!-- Background -->
+  <rect width="210" height="36" rx="8" fill="#2D2D2D"/>
+
+  <!-- LEFT: ICON -->
+  <g>
+    <!-- simple window / portfolio icon -->
+    <rect x="16" y="10" width="10" height="10" fill="white"/>
+    <rect x="18" y="12" width="6" height="2" fill="#2D2D2D"/>
+    <rect x="18" y="15" width="6" height="2" fill="#2D2D2D"/>
+
+    <!-- Text -->
+    <text x="40" y="23"
+          font-family="Arial, sans-serif"
+          font-size="12"
+          fill="white"
+          font-weight="bold">
+      Portfolio
+    </text>
+  </g>
+
+  <!-- RIGHT: PROFILE -->
+  <g>
+    <!-- separator -->
+    <line x1="145" y1="8" x2="145" y2="28" stroke="rgba(255,255,255,0.3)" />
+
+    <text x="165" y="23"
+          font-family="Arial, sans-serif"
+          font-size="12"
+          fill="#e0e0e0"
+          font-weight="bold">
+      Profile
+    </text>
+  </g>
+
+</svg>
