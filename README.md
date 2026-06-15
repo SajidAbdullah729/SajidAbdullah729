@@ -32,9 +32,7 @@
 </p>
 
 <p align="left">
-  <a href="www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer">
-    <img src="assets/linkedin.svg" width="200" height="30" />
-  </a>
+  
   <a href="https://scholar.google.com/citations?user=nA0Bf6QAAAAJ&hl=en">
     <img src="assets/google-scholar.svg" width="200" height="30" />
   </a>
@@ -51,6 +49,8 @@
 
 ### 🌐 Connect With Me :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer)
+<a href="www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer">
+    <img src="assets/linkedin.svg" width="200" height="30" />
+  </a>
 
 <br/>
