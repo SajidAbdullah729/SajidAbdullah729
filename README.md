@@ -16,7 +16,6 @@
   <a href="https://www.codechef.com/users/lawliet11235">
     <img src="assets/codechef.svg" width="260" height="45" />
   </a>
-
 </p>
 
 ---
