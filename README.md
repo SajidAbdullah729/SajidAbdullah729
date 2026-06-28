@@ -47,6 +47,8 @@
 
 ---
 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajidAbdullah729&theme=github_dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=SajidAbdullah729)
 
 ### 🌐 Connect With Me :
