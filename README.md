@@ -47,7 +47,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajidAbdullah729&show_icons=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajidAbdullah729)
 
 ### 🌐 Connect With Me :
 
