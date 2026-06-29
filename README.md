@@ -44,7 +44,7 @@
 
 | Contest | Team | Rank / Honour | Details |
 |---------|------|---------------|---------|
-| National Collegiate Programming Contest Preliminary | AUST_RedX | Rank 11 |  <a href="https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings" target="_blank">Link ↗</a> |
+| National Collegiate Programming Contest Preliminary 2023 | AUST_RedX | Rank 11 |  <a href="https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings" target="_blank">Link ↗</a> |
 | IUT IUPC 2024 | AUST_RedX | Rank 14 |  <a href="https://toph.co/c/iut-11th-national-ict-fest-2024/standings" target="_blank">Link ↗</a> |
 | CUET IUPC 2024 | AUST_Shunno7 | Rank 36 | <a href="https://toph.co/c/cuet-inter-university-codestorm-1-0/standings" target="_blank">Link ↗</a> |
 
