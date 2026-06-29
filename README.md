@@ -1,9 +1,8 @@
 # Mohammad Abdullah-Al-Sajid Chowdhury
 
 ### 📝 Finalist @ACM ICPC Asia West Continent  
-### 📝 Software Engineer  
-### 📝 2x Meta Hacker Cup Qualifier
-### 📝 2x ACM ICPC Regionals
+### 📝 Software Engineer
+### 📝 2x Meta Hacker Cup 2nd Round Qualifier
 
 
 
