@@ -58,7 +58,7 @@
 | Codeforces | SajidAbdullah | Expert (1613) | <a href="https://codeforces.com/profile/SajidAbdullah" target="_blank">Link ↗</a> |
 | LeetCode | SajidAbdullah | Knight(1901) | <a href="https://leetcode.com/u/SajidAbdullah/">Link ↗</a> |
 | CodeChef | lawliet11235 | ★★★★ (1886) | <a href="https://www.codechef.com/users/lawliet11235" target="_blank">Link ↗</a> |
-| AtCoder | Lawliet112358 | 6kyu (806) | <a href="https://atcoder.jp/users/your_handle" target="_blank">Link ↗</a> |
+| AtCoder | Lawliet112358 | 6 kyu (806) | <a href="https://atcoder.jp/users/your_handle" target="_blank">Link ↗</a> |
 | HackerRank | `sajidabdullah729` | 5★ Problem Solving | <a href="https://www.hackerrank.com/profile/sajidabdullah729" target="_blank">Link ↗</a> |
 
 
