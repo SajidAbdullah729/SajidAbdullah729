@@ -61,7 +61,7 @@
 | AtCoder | Lawliet112358 | 6 kyu (806) | <a href="https://atcoder.jp/users/your_handle" target="_blank">Link ↗</a> |
 | HackerRank | sajidabdullah729` | Problem Solving | <a href="https://www.hackerrank.com/profile/sajidabdullah729" target="_blank">Link ↗</a> |
 
-## International Collegiate Programming Contest Performanec
+## International Collegiate Programming Contest
 
 | Contest | Team | Rank / Honour | Details |
 |---------|------|---------------|---------|
