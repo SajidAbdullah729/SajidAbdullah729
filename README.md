@@ -65,9 +65,9 @@
 
 | Contest | Team | Rank / Honour | Details |
 |---------|------|---------------|---------|
-| ICPC Asia West Continent Final 2022 | AUST_CrackPlatoon | Honorable Mention | [link_](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings) |
-| ICPC Dhaka Regional 2022 | AUST_CrackPlatoon | Rank 33 | [link_](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings) |
-| ICPC Dhaka Regional 2023 | AUST_Shunno7 | Rank 54 | [link_](https://icpc.global/regionals/finder/Dhaka-2024/standings) |
+| ICPC Asia West Continent Final 2022 | AUST_CrackPlatoon | Honorable Mention | [link](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings) |
+| ICPC Dhaka Regional 2022 | AUST_CrackPlatoon | Rank 33 | [link](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings) |
+| ICPC Dhaka Regional 2023 | AUST_Shunno7 | Rank 54 | [link](https://icpc.global/regionals/finder/Dhaka-2024/standings) |
 
 ## 🌟 Generative AI and LLM Expertise
 
