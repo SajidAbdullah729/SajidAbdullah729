@@ -69,6 +69,19 @@
 | ACM ICPC Dhaka Regional 2022 | AUST_CrackPlatoon | Rank 33 | [link](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings) |
 | ACM ICPC Dhaka Regional 2023 | AUST_Shunno7 | Rank 54 | [link](https://icpc.global/regionals/finder/Dhaka-2024/standings) |
 
+## Notable National Programming Contest Performance
+
+| Contest | Team | Rank / Honour | Details |
+|---------|------|---------------|---------|
+| National Collegiate Programming Contest Preliminary | AUST_RedX | Rank 11 | [link](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) |
+| IUT IUPC 2024 | AUST_RedX | Rank 14 | [link](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) |
+| CUET IUPC 2024 | AUST_RedX | Rank 36 | [link](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings) |
+
+
+
+
+
+
 ## 🌟 Generative AI and LLM Expertise
 
 | Area | Description |
