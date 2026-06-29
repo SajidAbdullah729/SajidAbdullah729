@@ -48,21 +48,6 @@
 | IUT IUPC 2024 | AUST_RedX | Rank 14 | [link](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) |
 | CUET IUPC 2024 | AUST_Shunno7 | Rank 36 | [link](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings) |
 
-
-
-
-
-
-## 🤖 Generative AI and LLM Expertise
-
-| Area | Description |
-|------|-------------|
-| **Multi-Agent Pipelines** | Autonomous agent orchestration for complex workflows |
-| **RAG Systems** | Full Flow of retrieval augmented generation system |
-| **LLM Automation** | LLM API workflows with error handling, retries, and monitoring |
-| **Multimodal AI** | Multimodal AI application development |
-| **GenAI Applications** | AI Chatbots, AI Summarizers, intelligent assistants, and document intelligence solutions |
-
 ---
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajidAbdullah729&theme=github_dark)
