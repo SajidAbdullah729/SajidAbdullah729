@@ -7,15 +7,14 @@
 
 
 
-<p align="left">
-  
-  <a href="https://scholar.google.com/citations?user=nA0Bf6QAAAAJ&hl=en">
-    <img src="assets/google-scholar.svg" width="200" height="30" />
-  </a>
-  <a href="https://sajidabdullah729.github.io">
-    <img src="assets/portfolio.svg" width="200" height="30" />
-  </a>
-</p>
+
+## Profile
+
+| Platform | Details |
+|----------|----------|
+| Google Scholar | <a href="https://scholar.google.com/citations?user=nA0Bf6QAAAAJ&hl=en" target="_blank">Link ↗</a> | 
+| Portfolio | <a href="https://scholar.google.com/citations?user=nA0Bf6QAAAAJ&hl=en" target="_blank">Link ↗</a> | 
+
 
 
 
