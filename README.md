@@ -22,7 +22,7 @@
 
 
 
-## 🏆 Competitive Programming
+## 🏆 Competitive Programming Profile
 
 | Platform | Username | Maximum Rating | Profile |
 |----------|----------|---------------|---------|
