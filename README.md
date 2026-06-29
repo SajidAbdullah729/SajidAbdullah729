@@ -5,32 +5,7 @@
 ### 📝 2x Meta Hacker Cup Qualifier
 ### 📝 2x ACM ICPC Regionals
 
-<p align="left">
 
-  <a href="https://codeforces.com/profile/SajidAbdullah">
-    <img src="assets/codeforces.svg" width="200" height="30" />
-  </a>
-  <a href="https://www.codechef.com/users/lawliet11235">
-    <img src="assets/codechef.svg" width="200" height="30" />
-  </a>
-
-
-
-
-  <a href="https://leetcode.com/u/SajidAbdullah">
-    <img src="assets/leetcode.svg" width="200" height="30" />
-  </a>
-
-  <a href="https://atcoder.jp/users/Lawliet112358">
-    <img src="assets/atcoder.svg" width="200" height="30" />
-  </a>
-  
-
-
-
-
-  
-</p>
 
 <p align="left">
   
