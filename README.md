@@ -69,7 +69,7 @@
 | ACM ICPC Dhaka Regional 2022 | AUST_CrackPlatoon | Rank 33 | [link](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings) |
 | ACM ICPC Dhaka Regional 2023 | AUST_Shunno7 | Rank 54 | [link](https://icpc.global/regionals/finder/Dhaka-2024/standings) |
 
-## Notable National Programming Contest Performance
+## National Programming Contest Performance
 
 | Contest | Team | Rank / Honour | Details |
 |---------|------|---------------|---------|
