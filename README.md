@@ -20,11 +20,7 @@
 
 
 
----
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajidAbdullah729&theme=github_dark)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidAbdullah729&theme=github_dark)
 
 ## 🏆 Competitive Programming
 
@@ -66,6 +62,12 @@
 | **LLM Automation** | LLM API workflows with error handling, retries, and monitoring |
 | **Multimodal AI** | Speech-to-Text (STT), Text-to-Speech (TTS), and multimodal AI application development |
 | **GenAI Applications** | AI Chatbots, AI Summarizers, intelligent assistants, and document intelligence solutions |
+
+---
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajidAbdullah729&theme=github_dark)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidAbdullah729&theme=github_dark)
 
 ### 🌐 Connect With Me :
 
