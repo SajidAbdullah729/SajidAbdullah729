@@ -51,7 +51,7 @@
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidAbdullah729&theme=github_dark)
 
-## Generative AI and LLM Expertise
+## 🌟 Generative AI and LLM Expertise
 
 | Area | Description |
 |------|-------------|
