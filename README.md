@@ -36,9 +36,9 @@
 
 | Contest | Team | Rank / Honour | Details |
 |---------|------|---------------|---------|
-| ACM ICPC Asia West Continent Final 2022 | AUST_CrackPlatoon | Honorable Mention | [link](https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings) |
-| ACM ICPC Dhaka Regional 2022 | AUST_CrackPlatoon | Rank 33 | [link](https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings) |
-| ACM ICPC Dhaka Regional 2023 | AUST_Shunno7 | Rank 54 | [link](https://icpc.global/regionals/finder/Dhaka-2024/standings) |
+| ACM ICPC Asia West Continent Final 2022 | AUST_CrackPlatoon | Honorable Mention | <a href="https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings" target="_blank">Link ↗</a> |
+| ACM ICPC Dhaka Regional 2022 | AUST_CrackPlatoon | Rank 33 | <a href="https://web.archive.org/web/20230531214941/https://algo.codemarshal.org/contests/dhaka-22/standings" target="_blank">Link ↗</a> |
+| ACM ICPC Dhaka Regional 2023 | AUST_Shunno7 | Rank 54 | <a href="https://icpc.global/regionals/finder/Dhaka-2024/standings" target="_blank">Link ↗</a> |
 
 ## 🏆 National Programming Contest Performance
 
