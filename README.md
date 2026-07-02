@@ -2,7 +2,7 @@
 
 ### 📝 Finalist @ACM ICPC Asia West Continent  
 ### 📝 Software Engineer
-### 📝 2x Meta Hacker Cup 2nd Round Qualifier
+### 📝 2x Meta Hacker Cup Round 2 Qualifier
 
 
 
