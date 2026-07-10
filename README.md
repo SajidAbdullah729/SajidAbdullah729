@@ -48,7 +48,15 @@
 | IUT IUPC 2024 | AUST_RedX | Rank 14 |  <a href="https://toph.co/c/iut-11th-national-ict-fest-2024/standings" target="_blank">Link ↗</a> |
 | CUET IUPC 2024 | AUST_Shunno7 | Rank 36 | <a href="https://toph.co/c/cuet-inter-university-codestorm-1-0/standings" target="_blank">Link ↗</a> |
 
+
+## 🏆 Meta Hacker Cup Performance
+
+| Contest | Details |
+|---------|---------|
+| Meta Hacker Cup 2025 Round 2| <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/1071359040694040" target="_blank">Link ↗</a> |
+| Meta Hacker Cup 2023 Round 2|   <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/1071359040694040" target="_blank">Link ↗</a> |
 ---
+
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajidAbdullah729&theme=github_dark)
 
