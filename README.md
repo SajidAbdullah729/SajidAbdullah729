@@ -26,7 +26,7 @@
 | CodeChef | lawliet11235 | ★★★★ (1886) | <a href="https://www.codechef.com/users/lawliet11235" target="_blank">Link ↗</a> |
 | AtCoder | Lawliet112358 | Level-6 (806) | <a href="https://atcoder.jp/users/Lawliet112358" target="_blank">Link ↗</a> |
 
-## 🏆 International Collegiate Programming Contest
+## 🏆 International Collegiate Programming Contest Performance
 
 | Contest | Team | Rank / Honour | Details |
 |---------|------|---------------|---------|
