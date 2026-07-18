@@ -25,7 +25,6 @@
 | LeetCode | SajidAbdullah | Knight(1901) | <a href="https://leetcode.com/u/SajidAbdullah/">Link ↗</a> |
 | CodeChef | lawliet11235 | ★★★★ (1886) | <a href="https://www.codechef.com/users/lawliet11235" target="_blank">Link ↗</a> |
 | AtCoder | Lawliet112358 | Level-6 (806) | <a href="https://atcoder.jp/users/Lawliet112358" target="_blank">Link ↗</a> |
-| HackerRank | sajidabdullah729 | Problem Solving | <a href="https://www.hackerrank.com/profile/sajidabdullah729" target="_blank">Link ↗</a> |
 
 ## 🏆 International Collegiate Programming Contest
 
