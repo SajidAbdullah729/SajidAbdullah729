@@ -7,7 +7,7 @@
 | Platform | Details |
 |----------|----------|
 | Google Scholar | <a href="https://scholar.google.com/citations?user=nA0Bf6QAAAAJ&hl=en" target="_blank">Link ↗</a> | 
-| Portfolio | <a href="https://scholar.google.com/citations?user=nA0Bf6QAAAAJ&hl=en" target="_blank">Link ↗</a> | 
+| Portfolio | <a href="https://sajidabdullah729.github.io/" target="_blank">Link ↗</a> | 
 | LinkedIn | <a href="https://www.linkedin.com/in/mohammad-abdullah-al-sajid-chowdhury-software-engineer" target="_blank">Link ↗</a> | 
 
 
